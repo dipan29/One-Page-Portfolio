@@ -13,7 +13,9 @@ github_username:  dipan29
 theme: minima
 plugins:
   - jekyll-feed
-port: 80
+  - jekyll-seo-tag
+port: 8080
+timezone: Asia/Kolkata
 
 # Exclude from processing.
 # Excluded items can be processed by explicitly listing the directories or
