@@ -23,6 +23,7 @@ timezone: Asia/Kolkata
 #
 exclude:
     -  Readme.md
+    -  favicon.ico
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
