@@ -4,7 +4,7 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col">
+
         <div class="row">
         <div class="spacer col-33">
           {%- if site.author %}
@@ -15,21 +15,11 @@
             {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
             {%- endif %}
-            <li>CSE First Year<br/>Kalyani Government Engineering College</li>
+            <li>ECE First Year<br/>Kalyani Government Engineering College</li>
           </ul>
           {%- endif %}
         </div>
-        <div class="spacer col-66 f-right">
-          <p>{{ site.description }}</p>
-          <p class="feed-subscribe">
-            <a href="{{ 'feed.xml' | relative_url }}">
-              <svg class="svg-icon orange">
-                <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-              </svg><span>Subscribe</span>
-            </a>
-          </p>
-        </div>
-      </div>
+
       </div>
     </div>
 

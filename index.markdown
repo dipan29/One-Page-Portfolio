@@ -1,9 +1,7 @@
 ---
 layout: home
 ---
-# Hi, I am Madhu!
-Computer Science Engineer in the making! As sweet as the name suggests 😊.
-
+## Hi, I am Ayush!
 <div class="only-print" sty>
 <h1>Contact Information</h1>
 {%- assign social = site.social -%}
@@ -15,24 +13,73 @@ Computer Science Engineer in the making! As sweet as the name suggests 😊.
     <br />
 </div>
 
-# About Myself
-Show your ISC skills here.  
-Here's a little bit more [About Myself](/about/).
+---
 
-## Education Qualifications
-First College (with GPA) then Class 12 (specify stream) then Class 10 (specify year and percentages.)
+<br>
 
-## My Coursework
-Whatever you study here (mane college curriculam plus oisob java and all)
+### About Myself
 
-## Building Myself On
-Your Skills Here
+I am a first year undergrad in ECE from Kalyani Government Engineering College.
 
-## Projects that I have worked on
-Some projects (if any else delete)
+Currently, trying my hands at various domains to experience them all! 
 
-## Awards and Co-Curriculars
-School life things (for you :p)
+Here's a little bit more **[About Myself](/about/).**
 
-## My Interests
-Your Dance, Guitar and Drama (shob meye rai kore :3)
+### Education Qualifications
+#### Kalyani Government Engineering College
+
+**Electronics and Communication Engineering**
+
+*Aug. 2019 - Exp. Apr. 2023*
+
+- Fall 2019
+    - Computer Programming
+    - Machine Learning Beginner Track
+    - Android Development Beginner Track
+- Spring 2020
+    - Web Development
+    - Jekyll and some markdown + typesetting languages and tools
+    - Competitive Programming
+
+#### M. P. Birla Foundation Higher Secondary School
+
+**Science with Computer**
+
+*Apr. 2013 - Apr. 2019*
+
+- 12th Standard (ISC) board results : 96.5%
+- 10th Standard (ICSE) results : 96%
+
+### My Coursework
+- Building Responsive WebSites with HTML5, CSS3 and Jquery ~ Jonas Schmedtmann (Udemy)
+- On Track with GOLang (TeamTreeHouse)
+- Hands on Python by Google (Coursera)
+- Divide and Conquer ~ Prinston University (Coursera)
+
+`All the courses were audited hence no certificates were issued.`
+
+### Building Myself On
+I love algorithmic challenges and I participate in competitive competitions in my free time.
+
+DS and Algos are the prerequisites of almost all domains in Computer Science as well and I'm striving for a strong base in this!
+
+### Work Experience 
+- **Intern** at **DCKGEC** (2019-present)
+- **Director** at LMNTRiX, the tech club of M.P. Birla F.H.S. School (2016-2018)
+- **Captain** of School House. (2017-2018)
+- **School Representative** in multiple inter-school competitions
+
+
+### Projects that I have worked on
+**1. Omni Food**
+Built Using : **HTML5**, **CSS3** and **JS**
+*Was the final project of the udemy course on web development mentioned above*
+
+Check it out here : [Omni Food](https://www.github.com/Deathnaught-GitHub/project-omnifood)
+
+**2. Digital Portfolio using Jekyll**
+Built Using : **Jekyll**, **HTML**, **CSS**, **Markdown**, **Liquid**, **YAML**
+*Trained while an intern at DC KGEC.
+
+Check it out here : [My Portfolio](https://www.github.com/Deathnaught-GitHub/My-Portfolio)
+
