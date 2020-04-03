@@ -4,6 +4,17 @@ layout: home
 # Hi, I am Madhu!
 Computer Science Engineer in the making! As sweet as the name suggests 😊.
 
+<div class="only-print" sty>
+<h1>Contact Information</h1>
+{%- assign social = site.social -%}
+    <p>Email - {{ site.email }}</p>
+    {%- if social.github -%} GitHub : github.com/{{ social.github | cgi_escape | escape }}<br />
+    {%- endif -%}
+    {%- if social.linkedin -%} LinkedIn : linkedin.com/in/{{ social.linkedin | cgi_escape | escape }}<br />
+    {%- endif -%}
+    <br />
+</div>
+
 # About Myself
 Show your ISC skills here.  
 Here's a little bit more [About Myself](/about/).
