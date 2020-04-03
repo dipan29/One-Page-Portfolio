@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+<<<<<<< HEAD
 # Hi, I am Madhu!
 Computer Science Engineer in the making! As sweet as the name suggests 😊.
 
@@ -36,3 +37,6 @@ School life things (for you :p)
 
 ## My Interests
 Your Dance, Guitar and Drama (shob meye rai kore :3)
+=======
+# Welcome
+>>>>>>> parent of 54ada2e... Basic Structure Ready
