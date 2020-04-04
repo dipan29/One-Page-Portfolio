@@ -9,8 +9,8 @@
 # Quick Setup
 
 1. Install Ruby Devkit. [Click here](https://rubyinstaller.org/downloads/)
-2. Install Jekyll: type `gem install jekyll bundler` in your terminal
-3. Fork this repository and clone your fork
+2. Install Jekyll: run `gem install jekyll bundler` in your terminal
+3. Fork this repository and clone your fork in your system.
 4. Edit `_config.yml` to personalize your site
 
 # Settings
