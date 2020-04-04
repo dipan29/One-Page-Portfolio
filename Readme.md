@@ -2,7 +2,7 @@
 
 ***
 
-<h3 align="center">Please help this repo with a :star: to start editing it as your own!
+<h3 align="center">Fork this repo with a :star: to start editing it as your own!
 
 ***
 
