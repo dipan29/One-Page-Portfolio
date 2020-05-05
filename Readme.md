@@ -1,10 +1,9 @@
 # One Page Portfolio
 
-***
+![tech stack](http://img.shields.io/badge/Built_with-Ruby--Jekyll-red) [![beginner-friendly](https://img.shields.io/badge/beginner-friendly-tomato.svg?style=flat&logo=git)](https://github.com/dipan29/One-Page-Portfolio/issues) [![GitHub stars](https://img.shields.io/github/stars/dipan29/One-Page-Portfolio.svg?logo=github)](https://github.com/dipan29/One-Page-Portfolio/stargazers) [![GitHub forks](https://img.shields.io/github/forks/dipan29/One-Page-Portfolio.svg?logo=github&color=teal)](https://github.com/dipan29/One-Page-Portfolio/network) [![GitHub top language](https://img.shields.io/github/languages/top/dipan29/One-Page-Portfolio?color=yellow&logo=typescript)](https://github.com/dipan29/One-Page-Portfolio/) | [![GitHub followers](https://img.shields.io/github/followers/dipan29.svg?label=Follow%20@dipanr29&style=social)](https://github.com/dipan29/)
 
 <h3 align="center">Fork this repo with a :star: to start editing it as your own!
 
-***
 
 # Quick Setup
 
